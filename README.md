@@ -1,14 +1,17 @@
-# El-s
+![EMPODEA ELA Code Logo](/![Logo-Coral-vertical](https://user-images.githubusercontent.com/102440706/164997034-e7460c48-3c07-4ee4-9494-af34f249f500.png)
+
+
+
+# EMPODERA ELA
 
   
   # Sobre o Projeto
   As mulheres no Brasil ainda têm dificuldades de acesso ao mercado de trabalho formal. Apesar de alguns avanços, as diferenças salariais entre homens e mulheres ainda são grandes e a situação ainda é mais desvantajosa para elas, ainda que com maior escolaridade.
 
 No Brasil (PE), onde a renda ainda é muito baixa e há alta densidade demográfica, a imensa maioria das famílias é chefiada por mulheres, muitas com pouquíssimo tempo de escolaridade. Além disso, há um alto grau de informalidade nos pequenos negócios e grande número de mulheres empreendendo na informalidade. Nunca houve no município políticas públicas com viés no empreendedorismo com foco na mulher.
+    
   
-  
-  
-  
+
   ## Resumo
 Uma mulher vivendo, hoje, em um país em desenvolvimento, certamente tem um futuro com mais oportunidades do que tiveram sua mãe e sua avó. Afinal, vários são os aspectos que estão melhores para as mulheres no século XXI. Mais garotas estão na escola do que nunca antes. A população está um pouco mais longe da miséria: entre 1995 e 2015, a porcentagem de pessoas vivendo em extrema pobreza caiu 26% no mundo. Neste mesmo período, a proporção de mulheres que se casaram quando crianças diminuiu 15%, de uma em cada quatro para aproximadamente uma em cada cinco. E a taxa global de mortalidade materna caiu 58% entre 2000 e 2022.
 
@@ -16,9 +19,9 @@ Ainda assim, quase meio bilhão de mulheres e meninas com 15 anos ou mais de ida
 
 Ou seja, há bastante chão a ser trilhado no caminho para uma sociedade em que as disparidades de gênero deixem de existir. Uma sociedade em que mulheres e meninas – metade da população do mundo – não sejam mais deixadas para trás. 
 
-Mas os fatores que contribuem para que as mulheres sigam em desvantagem não podem ser vistos de forma isolada. A discriminação baseada no gênero é constantemente atravessada por outras, principalmente envolvendo raça e classe. As relações entre as diferentes formas de opressão compõem o que chamamos de interseccionalidade. Por este motivo,El@s – quer aborda a igualdade de gênero – é central para a Agenda 2030. 
+Mas os fatores que contribuem para que as mulheres sigam em desvantagem não podem ser vistos de forma isolada. A discriminação baseada no gênero é constantemente atravessada por outras, principalmente envolvendo raça e classe. As relações entre as diferentes formas de opressão compõem o que chamamos de interseccionalidade. Por este motivo, EMPODERA ELA – quer aborda a igualdade de gênero – é central para a Agenda 2030. 
 
-Você pode entender melhor do que trata a Agenda 2030 e quais são os objetivos propostos por ela em nosso texto ODS: o que esta sigla significa e como ela impacta o mundo hoje
+Você pode entender melhor do que trata a Agenda 2030 e quais são os objetivos propostos por ela em nosso texto: o que esta sigla significa e como ela impacta o mundo hoje
 
 Igualdade de gênero não é apenas um dos 17 Objetivos de Desenvolvimento Sustentável propostos, mas também um pilar para que todos os outros sejam alcançados. A perspectiva de gênero na implementação e no monitoramento da agenda não é, desta forma, somente um objetivo, mas uma forma de abordar todas as desigualdades, já que mulheres e meninas são desproporcionalmente e sistematicamente afetadas por elas.
 
@@ -27,9 +30,9 @@ Igualdade de gênero não é apenas um dos 17 Objetivos de Desenvolvimento Suste
 ## Objetivos Específicos
 
 Sobre o caminho para a igualdade de gênero
-“Alcançar a igualdade de gênero e empoderar todas as mulheres e meninas”, assim El@s se apresenta. Mas como dar conta deste propósito, considerando as complexidades e transversalidades que existem quando o assunto é disparidade de gênero?
+“Alcançar a igualdade de gênero e empoderar todas as mulheres e meninas”, assim o "EMPODERA ELA" se apresenta. Mas como dar conta deste propósito, considerando as complexidades e transversalidades que existem quando o assunto é disparidade de gênero?
 
-As nove metas nas quais El@s se desdobra procuram envolver as dimensões mais relevantes desta questão, passando por temas como como violência, discriminação, reconhecimento do trabalho doméstico não remunerado, políticas de redução das desigualdades de gênero, entre outros.
+As nove metas nas quais "EMPODERA ELA" se desdobra procuram envolver as dimensões mais relevantes desta questão, passando por temas como como violência, discriminação, reconhecimento do trabalho doméstico não remunerado, políticas de redução das desigualdades de gênero, entre outros.
 
 Vamos conhecê-las?
 
@@ -58,11 +61,11 @@ Deficiências na promoção e proteção dos direitos da mulher;
 Tratamento estereotipado dos temas relativos à mulher nos meios de comunicação e a desigualdade de acesso a esses meios; 
 Desigualdade de participação nas decisões sobre o manejo dos recursos naturais e a proteção do meio ambiente; 
 Necessidade de proteção e promoção voltadas especificamente para os direitos da menina.
-Em 2020, a Declaração de Pequim completa 25 anos. E o El@s completam 10. Entramos na Década da Ação, um movimento global lançado na Cúpula dos ODS para impulsionar medidas que ajudem a tornar a Agenda 2030 e todos os seus objetivos uma realidade nos próximos dez anos. Mas que progressos precisam acontecer quando o assunto é gênero?
+Em 2020, a Declaração de Pequim completa 25 anos. E o EMPODERA ELA completam 10. Entramos na Década da Ação, um movimento global lançado na Cúpula dos ODS para impulsionar medidas que ajudem a tornar a Agenda 2030 e todos os seus objetivos uma realidade nos próximos dez anos. Mas que progressos precisam acontecer quando o assunto é gênero?
 
 ## Resultados Esperados
 
-Para que el@s tenham direitos iguais no casamento
+Para que ELAS tenham direitos iguais no casamento
 Hoje, mulheres de 19 países são obrigadas por lei a obedecerem seus maridos. E em 111 países o estupro conjugal não é explicitamente criminalizado.
 
 Para que ela tenha a educação e o acesso a oportunidades de emprego que desejar

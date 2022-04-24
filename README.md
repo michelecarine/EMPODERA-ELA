@@ -1,5 +1,3 @@
-![Logo-Coral-vertical](https://user-images.githubusercontent.com/102440706/164997034-e7460c48-3c07-4ee4-9494-af34f249f500.png)
-
 <!DOCTYPE html>
 <html lang="pt-BR" class="slb csstransforms csstransforms3d csstransitions  slb_overlay">
   <head>...</head>
@@ -66,6 +64,9 @@
    </div>
    </body>
   </html>
+
+![Logo-Coral-vertical](https://user-images.githubusercontent.com/102440706/164997034-e7460c48-3c07-4ee4-9494-af34f249f500.png)
+
 
 # EMPODERA ELA
 

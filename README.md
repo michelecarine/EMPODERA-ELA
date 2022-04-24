@@ -1,4 +1,4 @@
-![EMPODEA ELA Code Logo](/![Logo-Coral-vertical](https://user-images.githubusercontent.com/102440706/164997034-e7460c48-3c07-4ee4-9494-af34f249f500.png)
+!(/![Logo-Coral-vertical](https://user-images.githubusercontent.com/102440706/164997034-e7460c48-3c07-4ee4-9494-af34f249f500.png)
 
 
 
